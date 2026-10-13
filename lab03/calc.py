@@ -7,3 +7,6 @@ if zn == '+':
     print(a+b)
 elif zn == '-':
     print(a-b)
+elif zn == '*':
+    print(a*b)
+
