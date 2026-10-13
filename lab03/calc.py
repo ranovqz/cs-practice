@@ -5,3 +5,5 @@ zn = str(input('Введите операцию: '))
 
 if zn == '+':
     print(a+b)
+elif zn == '-':
+    print(a-b)
