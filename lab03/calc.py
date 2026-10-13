@@ -9,5 +9,7 @@ elif zn == '-':
     print(a-b)
 elif zn == '*':
     print(a*b)
+elif zn == '/':
+    print(a/b)
 else:
     print('Ненене, так не пойдет, друг')
