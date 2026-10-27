@@ -18,3 +18,9 @@ def csv_to_record(text: str) -> list[dict]:
         records.append(rec)
 
     return records
+
+def parse_settings(lines: list[str]) -> dict:
+    results = {}
+
+    def oprval(val: str):
+        value = 
